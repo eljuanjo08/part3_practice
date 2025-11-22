@@ -1,0 +1,20 @@
+{
+  "name": "part3_practice",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/eljuanjo08/part3_practice#readme",
+  "bugs": {
+    "url": "https://github.com/eljuanjo08/part3_practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljuanjo08/part3_practice.git"
+  },
+  "license": "MIT",
+  "author": "Juan Urquia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
